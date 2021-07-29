@@ -15,7 +15,7 @@ You can view my Redux ECommerce Store Refactor here: [Redux Ecommerce Store Refa
 
 ## Description
 
-This is a refactoring project to updated the code for a React MERN ECommerce Shop.
+This is a refactoring project to updated the code for a React MERN ECommerce Shop to utilise REDUX.
 
 
 ## Technologies
