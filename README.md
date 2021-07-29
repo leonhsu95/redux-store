@@ -1,5 +1,5 @@
-# Book Search Engine
-You can view my Redux ECommerce Store Refactor here: [Redux Ecommerce Store]()
+# Redux ECommerce Store Refactor
+You can view my Redux ECommerce Store Refactor here: [Redux Ecommerce Store Refactor]()
 
 ## Table of Contents
 
