@@ -83,7 +83,7 @@ SOFTWARE.
 ## Features
 
 - eCommerce website works as expected of a dropship website where you can make online purchases.
-- Stripe handles online transactions. As this is in sandbox mode, feel free to insert 4242 4242 4242 as the test billing Visa Card and any 3 CVC digit and a future date to test payment gateway.
+- Stripe handles online transactions. As this is in sandbox mode, feel free to insert 4242 4242 4242 4242 as the test billing Visa Card and any 3 CVC digit and a future date to test payment gateway.
 
 ## Improvements
 - Creating a user exists page would be could for UX when the user signs up to the page with preexisting credentials.
