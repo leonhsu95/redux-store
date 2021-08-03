@@ -98,3 +98,6 @@ Website is validated with:
 - [Robo 3T](https://robomongo.org/) for MongoDB database management
 - React's Strict Mode enabled
 - React's Jest Test Suite 
+
+Seed dummy data with `heroku run npm run seed` if deploying on Heroku or
+`npm run seed` in your localhost React App.
